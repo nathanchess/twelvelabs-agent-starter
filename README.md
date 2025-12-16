@@ -166,17 +166,7 @@ Want to see the finished code? Check out the `completed/` folder for working imp
 
 ## 🏗️ Technical Architecture
 
-<!-- TODO: Replace with your LucidChart embed or image -->
-<p align="center">
-  <img src="./assets/architecture.png" alt="Architecture Diagram" width="800">
-</p>
-
-<!-- Alternative: LucidChart Embed -->
-<!--
-<p align="center">
-  <iframe width="800" height="500" src="https://lucid.app/documents/embeddedchart/YOUR_CHART_ID" frameborder="0" allowfullscreen></iframe>
-</p>
--->
+<img width="5771" height="2259" alt="TwelveLabs Embedding Agent Diagram - Page 1" src="https://github.com/user-attachments/assets/d520685a-63b6-4c36-bb2f-d6ffb3a4409d" />
 
 ### Architecture Overview
 
