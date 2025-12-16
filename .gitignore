@@ -1,0 +1,4 @@
+.env
+/completed
+/__pycache__/
+/tools/__pycache__/
