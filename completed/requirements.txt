@@ -1,0 +1,6 @@
+twelvelabs
+langchain
+langchain-aws
+langgraph
+python-dotenv
+numpy

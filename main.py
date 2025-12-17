@@ -8,8 +8,6 @@ from langchain.agents import create_agent
 from langchain_aws import ChatBedrockConverse
 from tools import create_video_embed, text_rag
 
-test_path = "C:\\Users\\natha\\OneDrive\\Desktop\\Coding\\Projects\\Consulting\\TwelveLabs\\langchain-marengo\\videos\\jaguar.mp4"
-
 def _agent_loop(agent: "AgentObject"):
 
     """
@@ -67,7 +65,7 @@ def main():
     if not os.getenv('VECTOR_DB_FILE'):
         raise ValueError("VECTOR_DB_FILE not found in environment variables.")
 
-    # Create an agent using the OpenAI API key from env.
+    # Create an agent using the AWS Bedrock integration and AWS_ACCESS_KEY API key from env.
     model = ChatBedrockConverse(
         model_id="anthropic.claude-3-5-sonnet-20240620-v1:0",
     )
