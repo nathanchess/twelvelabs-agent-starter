@@ -14,13 +14,17 @@
 ## 📺 Video Tutorial
 
 <p align="center">
-  <a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Video Tutorial" width="600">
+  <a href="https://youtu.be/hnJr6rmoa9A">
+    <img src="https://img.youtube.com/vi/hnJr6rmoa9A/maxresdefault.jpg" alt="Video Tutorial" width="600">
   </a>
 </p>
 
 <p align="center">
-  <em>👆 Click to watch the full tutorial on YouTube</em>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hnJr6rmoa9A" title="TwelveLabs Video RAG Agent Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center">
+  <em>👆 Watch the full tutorial on YouTube</em>
 </p>
 
 ---
