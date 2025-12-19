@@ -20,11 +20,7 @@
 </p>
 
 <p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/hnJr6rmoa9A" title="TwelveLabs Video RAG Agent Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</p>
-
-<p align="center">
-  <em>👆 Watch the full tutorial on YouTube</em>
+  <em>👆 Click to watch the full tutorial on YouTube</em>
 </p>
 
 ---
